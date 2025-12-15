@@ -46,5 +46,3 @@ npm run build
 ```sh
 npm run lint
 ```
-# vue-js
-# vue-js
